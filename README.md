@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi 👋 Welcome to this repository
+### 
+####This is a sample project that serves only one simple purpose:
+####-> Getting me started with Jenkins
+	
+####My Jenkins Server itself runs inside of a docker container on a virtual private server. - https://162.55.187.56/ (no money for domains). My login credentials are pretty **unsecure**. I would appreaciate if you wouldn't try to brute force your way in.
 
+####All traffic to it is being encrypted using TLS via a self-signed certificate using an NGINX proxy.
+
+####Thats really all there is to it. If you are looking for a cloud resource provider to also run a useless Jenkins server on, why don't you give https://www.hetzner.com/cloud a shot. 
 <!--
 **BieggerM/BieggerM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,8 @@
 ### Hi 👋 Welcome to this page
 
+Currently not looking for carrer opportunities.
+
+
 <!--
 **BieggerM/BieggerM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

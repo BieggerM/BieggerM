@@ -1,6 +1,6 @@
 ### Hi 👋 Welcome to this page
 
-Currently not looking for carrer opportunities.
+Currently not looking for career opportunities.
 
 
 <!--

@@ -6,6 +6,7 @@ Currently not looking for career opportunities. 💼
 - I am still learning a lot in Spring Boot but my new challenges are Python, Terraform and Kubernetes in no particular order. 📖
 
 I know I don't have to many public repos but for those i do have, i invite you to share your knowledge if you find any mistakes. ⛑️
+
 Best Regarts
 
 

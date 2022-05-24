@@ -9,6 +9,7 @@ This is a collection of tooling in different areas. It serves as a "keep it in m
 - Popeye
 
 ## Containers
+[![Docker Banner](https://thingsolver.com/wp-content/uploads/docker-cover.png)](https://thingsolver.com/wp-content/uploads/docker-cover.png)
 ### Technologies
 - Docker
 - Podman
@@ -17,9 +18,21 @@ This is a collection of tooling in different areas. It serves as a "keep it in m
 - Harbor (Self-hosted)
 ### Tools
 - Dive
+- jib
+- kaniko
 
 ## CI/CD Solutions
+### Continuous Integration
 - Gitlab
 - Github
 - Jenkins
-- 
+
+### Continuous Deployment
+- ArgoCD
+- FluxCD
+- Cartographer
+
+## Telemetry
+### Monitoring
+### Logging
+### Tracing

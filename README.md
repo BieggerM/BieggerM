@@ -1,15 +1,22 @@
-### Hi 👋 This is my page.
+### Hi 👋
 
-Currently not looking for career opportunities. 💼
+- I’m currently working on a small Project called icanhazpw (maybe you know the meme). I wanted to get into Go Development so i chose to create a small webservice. Take a look at it if you are interested. 🎉
+- In my learning process i try to draw inspiration from the [brilliant roadmap](https://roadmap.sh/devops) by [Kamran Ahmed](https://github.com/kamranahmedse) 📖
+- Since KubeCon / CloudnativeCon, I consider myself an advocate for GitOps culture
 
-- I’m currently working on a small Project called RestRequest. I wanted to get into Django Development so i chose to create a small website and API. Take a look at HttpRequest if you are interested. 🎉
-- I am still learning a lot in Spring Boot but my new challenges are Python, Terraform and Kubernetes in no particular order. 📖
+Best Regards
 
-I know I don't have to many public repos but for those i do have, i invite you to share your knowledge if you find any mistakes. ⛑️
-
-Best Regarts
-
-
+Stuff I have on my agenda 📅:
+- Kubernetes: 
+  - [Starboard Security Tool](https://github.com/aquasecurity/starboard)
+  - [FluxCD](https://github.com/fluxcd/flux2)
+  - [Cartographer](https://github.com/vmware-tanzu/cartographer)
+- Tooling:
+  - Github Actions
+  - [Backstage](https://github.com/backstage/backstage)
+- Coding: 
+  - Go
+  - Rust  
 
 <!--
 **BieggerM/BieggerM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

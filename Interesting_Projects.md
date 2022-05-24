@@ -9,8 +9,13 @@ This is a collection of tooling in different areas. It serves as a "keep it in m
 - Popeye
 
 ## Containers
+### Technologies
 - Docker
 - Podman
+### Registries
+- ACR
+- Harbor (Self-hosted)
+### Tools
 - Dive
 
 ## CI/CD Solutions
